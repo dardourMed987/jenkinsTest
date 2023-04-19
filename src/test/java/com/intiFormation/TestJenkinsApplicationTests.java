@@ -8,6 +8,7 @@ class TestJenkinsApplicationTests {
 
 	@Test
 	void contextLoads() {
+		System.out.println("Bonjour le test");
 	}
 
 }
