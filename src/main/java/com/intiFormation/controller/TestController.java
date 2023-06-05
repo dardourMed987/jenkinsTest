@@ -10,7 +10,7 @@ public class TestController {
 	@GetMapping("/jenkins")
 	public String testdetest()
 	{
-		return "Bonjour jenkins";
+		return "Bonjour jenkins après modification";
 	}
 
 }
